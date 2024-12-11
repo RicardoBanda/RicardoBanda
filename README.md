@@ -8,7 +8,6 @@
 
 <br>
 
-<br>
 
 - Desarollador web 
 - Apasionado Front-end
@@ -58,41 +57,8 @@
 
 
 </p>
-
-<br>
-<br>
-
------
-
-<br>
-
-<br>
-
-</a>
 </div>
 
-<br>
-<br>
-<br>
-
-<br>
-<br>
-
-<br>
-
-<br>
-	
 </ul>
 </div>
 
-<br>
-<br>
-<br>
-<br>
-
-<br>
-<br>
-<br>
-<br>
-
-<br>
