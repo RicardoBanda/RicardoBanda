@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hola, soy Ricardo Banda </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-end+O+Lic.Tecnologias de Informacion></a>
 </p>
 
 
@@ -18,7 +18,7 @@
 <br>
 
 - Desarollador web 
-- Aposionado Front-end
+- Apasionado Front-end
 - En busca de nuevas oportunidaes y mejorar mis habilidades.
 
 <br><br>
@@ -73,8 +73,6 @@
 
 <br>
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
 <div align="center">
